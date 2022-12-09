@@ -4,8 +4,16 @@
 # model remove the "{}" from the fixture names and add the columns immediately
 # below each fixture, per the syntax in the comments below
 #
-one: {}
+one: {
+  title: "2022 Worldcup News",
+  body: "Great and Amazing games you should watch",
+  status: "public"
+}
 # column: value
 #
-two: {}
+two: {
+  title: "2021 Worldcup News",
+  body: "Great news about France team",
+  status: "public"
+}
 # column: value
